@@ -1,0 +1,9 @@
+{
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "cmake.sourceDirectory": "/home/kareemadel/Desktop/EL_logisty/app/linux"
+}
